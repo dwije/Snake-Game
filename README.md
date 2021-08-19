@@ -13,9 +13,9 @@ The user can use the arrow keys to control the snake's direction. Key inputs are
 Food for the snake is spawned at a random location everytime the current food piece is eaten.
 
 There are multiple types of food:
-Green food - worth 1 point, most common, increases snake length by 1
-Yellow food - worth 2 points, rare, increases snake length by 2
-Red food - worth 3 points, very rare, increases snake length by 3
+Green food - worth 1 point, most common, increases snake length by 1;
+Yellow food - worth 2 points, rare, increases snake length by 2;
+Red food - worth 3 points, very rare, increases snake length by 3;
 
 There is also an invincibility powerup, which essentially removes the collision check to prevent the snake from dying.
 The invincibility "buff" occurs as a white food piece which randomly spawns on the board and remains for about 10 seconds.
