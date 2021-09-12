@@ -1,4 +1,4 @@
-# snake-game
+# Snake-Game
 The popular Snake game coded in Java
 
 This game was made using basic Java Swing components like JFrames, JPanels, JButtons, etc.
